@@ -14,7 +14,7 @@ Here is a blog post by one such team which participated in the event and success
 <hr>
 
 # <center> Team HIFI  
-### <center> - Maitrey Gramopadhye, Swadha Sanghvi, Bhuyashi Deka, Vikrant Nagpure
+<center> - Maitrey Gramopadhye, Swadha Sanghvi, Bhuyashi Deka, Vikrant Nagpure
 
 <img src="{{ site.url }}/images/Gripper/roboarm.jpg" alt="team" height="24" width="32">
 
