@@ -1,5 +1,5 @@
 title:            Robotics Club IIT Bombay
-tagline:          
+tagline:
 description:      Official website of Robotics Club, IIT Bombay
 canonical: https://robo-club-iitb.github.io
 
@@ -7,12 +7,12 @@ canonical: https://robo-club-iitb.github.io
 owner:
   name:           Robotics Club IITB
   avatar:         club_logo.png
-  bio:            
+  bio:
   email:          robotics.iitb@gmail.com
-  twitter:        
+  twitter:
   github:         robo-club-iitb
-  instagram:      
-  dribbble:       
+  instagram:
+  dribbble:
   disqus:         roboclubiitb
   location:       "Bombay, India"
   # Plug in your disqus shortname!
@@ -33,20 +33,20 @@ links:
   - title: Blog
     url: /blog
   - title: Tutorials
-    url: /tutorials    
+    url: /tutorials
   - title: Contact us
     url: /contact
-    
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
-future:      true														
+future:      true
 highlighter: pygments
 markdown:    kramdown
 mathjax: true
 
-baseurl: /robotics-club 
-url: https://stab-iitb.org/robotics-club
+baseurl: /robotics-club
+# url: https://stab-iitb.org/robotics-club
 
 kramdown:
   auto_ids: true
@@ -72,7 +72,7 @@ collections:
   events:
     permalink: /events/:path/
     output: true
-    
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
