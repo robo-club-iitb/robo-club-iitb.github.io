@@ -16,7 +16,7 @@ Here is a blog post by one such team which participated in the event and success
 # <center> Team HIFI  
 ### <center> - Maitrey Gramopadhye, Swadha Sanghvi, Bhuyashi Deka, Vikrant Nagpure
 
-<img src="{{ site.url }}/images/Gripper/roboarm.png" alt="team" height="24" width="32">
+<img src="{{ site.url }}/images/Gripper/roboarm.jpg" alt="team" height="24" width="32">
 
 <p>
 All at least once we've tried opening up clocks in our house or the batteries of our mobile. Well, to satisfy this techie spirit a gripper bot session was held on 23 November. we had been waiting to get our Xlr8 bots out of our cupboards and and do more with them as our mentors had promised we would. The tech nightout held in tinker's lab started at 9 pm. Mentors were very enthusiastic about explaining the concept of grippers and having attended the get mechanised and get electrified session it wasn't hard to get started.
